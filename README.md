@@ -17,7 +17,7 @@ Learn everything you need to about the subject of this `Graph Academy` project.
 ```
 [x] About this course
 [x] Introduction to Graph Databases
-[ ] Introduction to Neo4j
+[x] Introduction to Neo4j
 [ ] Setting Up Your Development Environment
 [ ] Introduction to Cypher
 [ ] Getting More Out of Queries
